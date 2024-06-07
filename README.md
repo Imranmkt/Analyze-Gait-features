@@ -1,4 +1,4 @@
-# Gait features Calcualtion
+# Gait Features Calcualtion
 This code is designed to process and analyze gait data from videos. It calculates various gait features, such as speed, body angles, stance and swing phases, cadence, asymmetry, and more. Here's a breakdown of the functionality:
 
 **Overview**
